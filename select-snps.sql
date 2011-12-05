@@ -1,0 +1,1 @@
+/home/kev/Documents/snp-tagging/HumanOmni5/select-snps.sql
