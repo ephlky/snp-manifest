@@ -1,0 +1,1 @@
+select count(*) from manifest where Chr='X' ;
